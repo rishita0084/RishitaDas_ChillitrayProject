@@ -1,0 +1,21 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #f8f9fa;
+  }
+  
+  .explore-btn {
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 12px 32px;
+    width: 99%;
+  }
+
+  .explore-btn:hover {
+    background-color: #e22e46;
+  }
+  
+  
